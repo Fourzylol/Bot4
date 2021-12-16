@@ -12,8 +12,8 @@ Atau Bisa Lewat Issue :)
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/RC047/Kuhong-V4
-> cd Kuhong-V4
+> git clone https://github.com/Fourzylol/Bot4
+> cd Bot4
 > npm install
 ```
 ###### Run
@@ -28,8 +28,8 @@ Atau Bisa Lewat Issue :)
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/RC047/Kuhong-V4
-> cd Kuhong-V4
+> git clone https://github.com/Fourzylol/Bot4
+> cd Bot4
 > npm install
 ```
 ###### Run
@@ -182,11 +182,9 @@ Atau Bisa Lewat Issue :)
 
 # MEDIA SOSIAL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
 
-#### YouTube : [`RC047`](https://www.youtube.com/c/RC047)
-#### Instagram : [`@rendycraft047`](https://www.instagram.com/rendycraft047)
-#### Kontak : [`WhatsApp`](https://wa.me/62895337278647)
-#### Donasi : [`Seikhlasnya :)`](https://saweria.co/RC047)
+#### Instagram : [`@fourzy_`](https://www.instagram.com/fourzy_)
+#### Kontak : [`WhatsApp`](https://wa.me/6285748600473)
+#### Donasi : [`Seikhlasnya :)`](DANA: 085748600473)
 
-#### API Rest : [`kuhong-api`](https://kuhong-api.herokuapp.com/)
 #### Created By : [`Nurutomo`](https://GitHub.com/Nurutomo) 
-#### Recoded By : [`RC047`](https://GitHub.com/RC047) 
+#### Recoded By : [`Fourzy`](https://GitHub.com/Fourzylol) 
