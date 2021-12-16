@@ -1,7 +1,7 @@
 {
   "name": "Kuhong-V4",
   "version": "4.6.5",
-  "description": "Made By Yuditya w",
+  "description": "Made By RendyCraft047",
   "depecrated": false,
   "main": "RendyGans.js",
   "directories": {
@@ -21,7 +21,7 @@
   ],
   "homepage": "https://github.com/RC047/Kuhong-V4",
   "author": {
-    "name": "Fourzy"
+    "name": "RC047"
   },
   "repository": {
     "url": "https://github.com/RC047/Kuhong-V4.git"
