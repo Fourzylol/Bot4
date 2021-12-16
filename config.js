@@ -12,8 +12,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Pembuat Sticker'
-global.author = 'Credit RC047'
+global.packname = 'I hope youre fine'
+global.author = 'Jemer'
 
 global.multiplier = 100 // The higher, The harder levelup
 
